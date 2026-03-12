@@ -23,10 +23,10 @@ Lihat portofolio interaktif saya di sini:
 ##  Keahlian Teknis
 | Domain | Keahlian |
 | :--- | :--- |
-| **Networking** | MikroTik Routing & Switching, VLAN, Firewall, Bandwidth Management |
-| **Wireless** | Long-range PTP/PTMP, Link Budget Optimization, Ubiquiti/MikroTik |
+| **Networking**     | MikroTik Routing & Switching, VLAN, Firewall, Bandwidth Management |
+| **Wireless**       | Long-range PTP/PTMP, Link Budget Optimization, Ubiquiti/MikroTik |
 | **Infrastructure** | Greenfield Factory Setup, Rack Management, Industrial Cabling |
-| **Systems** | CCTV NVR Management, PABX, Network Quality Control, Hardware Repair |
+| **Systems**        | CCTV NVR Management, PABX, Network Quality Control, Hardware Repair |
 
 ---
 
@@ -38,17 +38,17 @@ Lihat portofolio interaktif saya di sini:
 
 ##  Implementasi Proyek
 Web ini menampilkan dokumentasi proyek nyata, termasuk:
-1. **Wireless Antar Kota:** Optimasi frekuensi dan link budget untuk throughput maksimal.
-2. **Infrastruktur Pabrik:** Setup total dari cabling hingga server rack management.
-3. **Network Security:** Implementasi firewall filter dan VLAN untuk segregasi trafik.
+1. **Wireless Antar Kota  :** Optimasi frekuensi dan link budget untuk throughput maksimal.
+2. **Infrastruktur Pabrik :** Setup total dari cabling hingga server rack management.
+3. **Network Security     :** Implementasi firewall filter dan VLAN untuk segregasi trafik.
 
 ---
 
 ##  Teknologi Portofolio
-- **Frontend:** HTML5, CSS3 (Modern Flexbox & Grid)
-- **Animasi:** AOS.js (Animate On Scroll)
-- **Desain:** Glassmorphism UI & Responsive Layout
-- **Icons:** FontAwesome 6.0
+- **Frontend :** HTML5, CSS3 (Modern Flexbox & Grid)
+- **Animasi  :** AOS.js (Animate On Scroll)
+- **Desain   :** Glassmorphism UI & Responsive Layout
+- **Icons    :** FontAwesome 6.0
 
 ---
 
@@ -66,4 +66,4 @@ Web ini menampilkan dokumentasi proyek nyata, termasuk:
 </div>
 
 ---
-<p align="center">Didesain dengan presisi untuk performa tinggi. © 2026 Rohmat Roziqin.</p>
+<p align="center">🖥️ ®️ 2026 Rohmat Roziqin.</p>
