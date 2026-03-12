@@ -16,7 +16,7 @@
 
 ##  Live Demo
 Lihat portofolio interaktif saya di sini: 
- **[https://rohmatroziqin.github.io/Portofolio/](https://rohmatroziqin.github.io/Portofolio/)**
+ **[https://rohmatroziqin.github.io/Portofolio/](Rohmat Roziqin - Portofolio)**
 
 ---
 
